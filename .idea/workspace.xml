@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a57996b-304d-4940-919a-5ee7255bb2dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+    <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+  </component>
+  <component name="ProjectId" id="1gclAr87NuuQd4k4L93iNTVTFDh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2321839" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\OOH-host\src\main\java\data" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Analyse" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\OOH-host\src\main\java\data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="experiment.Main" />
+      <module name="MROAM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <module name="MROAM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="MROAM" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="MROAM" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a57996b-304d-4940-919a-5ee7255bb2dc" name="Default Changelist" comment="" />
+      <created>1576623674285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576623674285</updated>
+      <workItem from="1576623675991" duration="488000" />
+      <workItem from="1576654412741" duration="196000" />
+      <workItem from="1576657141449" duration="2655000" />
+      <workItem from="1576739122183" duration="657000" />
+      <workItem from="1576813580507" duration="274000" />
+      <workItem from="1576813862796" duration="16000" />
+      <workItem from="1576814034501" duration="5443000" />
+      <workItem from="1576993368063" duration="65112000" />
+      <workItem from="1577570955979" duration="10199000" />
+      <workItem from="1577663243860" duration="9032000" />
+      <workItem from="1577919420177" duration="1627000" />
+      <workItem from="1578032130363" duration="154493000" />
+      <workItem from="1578783237406" duration="64952000" />
+      <workItem from="1579129150956" duration="13529000" />
+      <workItem from="1579203449787" duration="7635000" />
+      <workItem from="1579227577391" duration="630000" />
+      <workItem from="1579228404916" duration="7601000" />
+      <workItem from="1579315602022" duration="2061000" />
+      <workItem from="1579403305431" duration="11138000" />
+      <workItem from="1579464900214" duration="116000" />
+      <workItem from="1579465033090" duration="1875000" />
+      <workItem from="1580080761111" duration="1235000" />
+      <workItem from="1580355987995" duration="3808000" />
+      <workItem from="1580423259405" duration="6900000" />
+      <workItem from="1580596757451" duration="7372000" />
+      <workItem from="1581122458392" duration="12229000" />
+      <workItem from="1581601787663" duration="990000" />
+      <workItem from="1581667037944" duration="1523000" />
+      <workItem from="1587363320746" duration="719000" />
+      <workItem from="1590119751363" duration="1536000" />
+      <workItem from="1592011289976" duration="64021000" />
+      <workItem from="1592872615257" duration="2416000" />
+      <workItem from="1593085842653" duration="944000" />
+      <workItem from="1593134407523" duration="3958000" />
+      <workItem from="1593606412898" duration="358000" />
+      <workItem from="1593647532547" duration="606000" />
+      <workItem from="1593860978880" duration="359000" />
+      <workItem from="1598421622491" duration="4639000" />
+      <workItem from="1598435404736" duration="15564000" />
+      <workItem from="1598572038424" duration="3962000" />
+      <workItem from="1598580537471" duration="2582000" />
+      <workItem from="1598590475297" duration="4238000" />
+      <workItem from="1598596316663" duration="9401000" />
+      <workItem from="1598610218527" duration="10725000" />
+      <workItem from="1598662857484" duration="77760000" />
+      <workItem from="1599018303563" duration="1777000" />
+      <workItem from="1599271264412" duration="624000" />
+      <workItem from="1599274345033" duration="595000" />
+      <workItem from="1599353777707" duration="595000" />
+      <workItem from="1599362857524" duration="80000" />
+      <workItem from="1599995400791" duration="5576000" />
+      <workItem from="1600330307584" duration="626000" />
+      <workItem from="1600561220584" duration="345000" />
+      <workItem from="1600561724413" duration="15042000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1086" y="402" key="#com.intellij.ide.util.MemberChooser" timestamp="1598423053736">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1086" y="402" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/3840.0.1080.1880@0.0.2560.1400" timestamp="1598423053736" />
+    <state width="1365" height="889" key="DebuggerActiveHint" timestamp="1600577318745">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1365" height="889" key="DebuggerActiveHint/0.0.2560.1400/3840.0.1080.1880@0.0.2560.1400" timestamp="1600577318745" />
+    <state x="1061" y="455" key="FileChooserDialogImpl" timestamp="1600338319575">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1061" y="455" key="FileChooserDialogImpl/0.0.2560.1400/3840.0.1080.1880@0.0.2560.1400" timestamp="1600338319575" />
+    <state width="2517" height="421" key="GridCell.Tab.0.bottom" timestamp="1600579763522">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="421" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.1080.1880@0.0.2560.1400" timestamp="1600579763522" />
+    <state width="2517" height="421" key="GridCell.Tab.0.center" timestamp="1600579763522">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="421" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.1080.1880@0.0.2560.1400" timestamp="1600579763522" />
+    <state width="2517" height="421" key="GridCell.Tab.0.left" timestamp="1600579763522">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="421" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.1080.1880@0.0.2560.1400" timestamp="1600579763522" />
+    <state width="2517" height="421" key="GridCell.Tab.0.right" timestamp="1600579763522">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="421" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.1080.1880@0.0.2560.1400" timestamp="1600579763522" />
+    <state width="2517" height="525" key="GridCell.Tab.1.bottom" timestamp="1600577707993">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="525" key="GridCell.Tab.1.bottom/0.0.2560.1400/3840.0.1080.1880@0.0.2560.1400" timestamp="1600577707993" />
+    <state width="2517" height="525" key="GridCell.Tab.1.center" timestamp="1600577707993">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="525" key="GridCell.Tab.1.center/0.0.2560.1400/3840.0.1080.1880@0.0.2560.1400" timestamp="1600577707993" />
+    <state width="2517" height="525" key="GridCell.Tab.1.left" timestamp="1600577707992">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="525" key="GridCell.Tab.1.left/0.0.2560.1400/3840.0.1080.1880@0.0.2560.1400" timestamp="1600577707992" />
+    <state width="2517" height="525" key="GridCell.Tab.1.right" timestamp="1600577707993">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="525" key="GridCell.Tab.1.right/0.0.2560.1400/3840.0.1080.1880@0.0.2560.1400" timestamp="1600577707993" />
+    <state x="581" y="267" key="SettingsEditor" timestamp="1600579836431">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="581" y="267" key="SettingsEditor/0.0.2560.1400/3840.0.1080.1880@0.0.2560.1400" timestamp="1600579836431" />
+    <state x="1295" y="186" width="587" height="801" key="find.popup" timestamp="1600577076719">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1295" y="186" width="587" height="801" key="find.popup/0.0.2560.1400/3840.0.1080.1880@0.0.2560.1400" timestamp="1600577076719" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1598674754310">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/3840.0.1080.1880@0.0.2560.1400" timestamp="1598674754310" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Analyse/FindName.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="443" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="totalRequiredInf / totalInf * exp.infPercentage" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/zyp$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1581233272893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
